@@ -1,2 +1,3 @@
 Name: Lê Thế Trung 
 Interests: Coding, Design  
+Skills: Git, HTML, CSS
